@@ -1,3 +1,0 @@
-whatever
-appending to "pushed" file from local
-inserting from local to create conflict...
