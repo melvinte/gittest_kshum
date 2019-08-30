@@ -1,2 +1,3 @@
 whatever
 appending to "pushed" file from local
+inserting in remote file to create conflict...
