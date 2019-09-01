@@ -2,3 +2,4 @@ whatever
 adding a line from local
 adding a line on remote
 fixing merge conflict
+Hello there, this is Melvin messing with your file
