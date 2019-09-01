@@ -3,3 +3,6 @@ adding a line from local
 adding a line on remote
 fixing merge conflict
 Hello there, this is Melvin messing with your file
+Melvin, it is beginning to make sense now. I'm "messing" with my text file in your "fork" of my repo
+and I don't have write access here. So you "own" this copy, same as I own the copy of your text file
+in my "forked" copy of your repo.
